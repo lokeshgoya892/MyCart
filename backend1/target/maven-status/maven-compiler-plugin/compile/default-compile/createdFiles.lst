@@ -1,0 +1,15 @@
+com\shoppingcart\backend1\DAO\CategoryDAO.class
+com\shoppingcart\backend1\DAO\ProductDAO.class
+com\shoppingcart\backend1\model\Category.class
+com\shoppingcart\backend1\config\ApplicationContextConfig.class
+com\shoppingcart\backend1\model\Author.class
+com\shoppingcart\backend1\App.class
+com\shoppingcart\backend1\DAO\ProductDAOImp.class
+com\shoppingcart\backend1\model\Supplier.class
+com\shoppingcart\backend1\DAO\CategoryDAOImp.class
+com\shoppingcart\backend1\DAO\SupplierDAO.class
+com\shoppingcart\backend1\DAO\SupplierDAOImp.class
+com\shoppingcart\backend1\model\Product.class
+com\shoppingcart\backend1\DAO\UserDAOImp.class
+com\shoppingcart\backend1\model\User.class
+com\shoppingcart\backend1\DAO\UserDAO.class
